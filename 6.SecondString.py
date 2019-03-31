@@ -2,7 +2,7 @@
 
 # Program takes a user input string and outputs very second work
 
-# References: https://stackoverflow.com/questions/47085552/replace-every-second-word-with-the-word-hello-using-a-function
+# References/Adapted from: https://stackoverflow.com/questions/47085552/replace-every-second-word-with-the-word-hello-using-a-function
 
 string = input("Create your own sentence")      # instruct user to input a sentence of their choosing
 

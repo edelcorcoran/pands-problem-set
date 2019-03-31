@@ -1,7 +1,7 @@
 #Edel Corcoran Begins With T program
 
 #Program will determine whether today a day that begins with the letter T?
-#References: Adapted from Tuesday.py 
+#References: Adapted from Tuesday.py (class lecture)
 
 
 #Program imports the current weekday and determines answer "Yes!..." or "No!...."
