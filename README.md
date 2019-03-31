@@ -77,6 +77,7 @@ Other references: https://www.youtube.com/watch?v=0EgSo7hsRWM viewed 31/3/19, ht
 
 
 Additional references and guides for problem set:
+Class lecture notes and videos
 
 
 
