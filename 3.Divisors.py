@@ -1,15 +1,22 @@
 #Edel Corcoran Solution 2 from Problem Sheet 
 #Programming & Scripting H.Dip Data Analytics
 
-# Adapted from Code examples in lecture videos on Statements and Controlled Loops
+# References: Code examples in lecture videos on Statements and Controlled Loops 
+# Adapted from https://www.sanfoundry.com/python-program-print-numbers-range-divisible-given-number/ 31/3/19
 
 #Range at start works
 # Working but not printing number!!
 
-for n in range(1000, 10000):
-    if n%6 == 0:
-        print("n, is divisible by 6 but not 12")
-    elif n%12 == 0:
-        print()
-    else:
-        print()
+
+#Provide the range to be searhed ie.from 1000 (lower) to 10000 (upper)
+lower = 1000
+upper = 10000
+
+#Provide the divisors 6 and 12 
+a=6
+b=12
+
+for i in range(lower,upper+1):
+    if(i%a ==0) and (i%b ==0):
+        print(i)
+        
