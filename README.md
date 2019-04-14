@@ -57,6 +57,9 @@ Write a program that takes a positive floating point number as input and outputs
 References/Adapted from: 
 https://www.programiz.com/python-programming/examples/square-root 
 
+Alternative Method: Newton's Square Root Method. File name is "7.Newton'sSqRoot.py"
+References: Class Lecture Video Week 8
+
 Question 8: File name is "8.Datetime.py"
 Write a program that outputs today's date and time in the format "Monday, January 10 2019 at 1.15pm"
 
